@@ -1,3 +1,6 @@
+## cognito demo
+It parses user pool tokens from the URL and Returns the token from the URL hash
+
 ## requirements
 > Cognito only allows SLL, so inorder to test it locally you need follow the steps for create Self-Signed Certificate for using with VS Code Live Server
 
