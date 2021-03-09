@@ -4,8 +4,8 @@
     "liveServer.settings.CustomBrowser": "chrome",
     "liveServer.settings.https": {
       "enable": true,
-      "cert": "/Users/hakan.temiz/localhost.pem",
-      "key": "/Users/hakan.temiz/localhost.key",
-      "passphrase": "guvenli"
+      "cert": "",
+      "key": "",
+      "passphrase": ""
     }
   }
